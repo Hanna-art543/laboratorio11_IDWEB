@@ -1,5 +1,5 @@
 //Informar sobre el programa y dar indicaciones
-alert("El siguiente programa verificará si el número es Armstring."
+alert("El siguiente programa verificará si el número es Armstrong."
     +"Para salir del programa ingrese -1."
 );
 
@@ -34,3 +34,4 @@ while(true) {
     }
 
 }
+
