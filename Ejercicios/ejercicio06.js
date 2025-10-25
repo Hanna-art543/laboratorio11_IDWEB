@@ -36,3 +36,4 @@ while(true) {
 
     alert("Números primos hasta " + maxNum + ":\n" + resultado);
 }
+
