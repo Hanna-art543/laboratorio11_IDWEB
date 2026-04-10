@@ -11,4 +11,4 @@ Hola
 [Triste](https://www.psicoactiva.com/wp-content/uploads/2016/12/mujer-deprimida-triste.jpg)  
 djbhwjklñsa   
 # Laboratorios
-- [Ir al ejercicio 01](./ejercicio01.js)
+- [Ir al ejercicio 01](./Ejercicios/ejercicio01.js)
